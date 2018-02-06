@@ -1,0 +1,105 @@
+body {
+  background-color: #fff;
+  width: 800px;
+  margin: 0 auto;
+  color: #51504e;
+  padding: 5%;
+  font-size: 17px;
+  font-family: 'Futura TGW', 'Futura-Medium', Futura, Helvetica, Arial, sans-serif;
+  color: #51504e;
+}
+
+ul {
+  margin-left: 0;
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: 6px;
+}
+
+h3 {
+  color: #beb9ae;
+  text-transform: uppercase;
+
+}
+
+.center {
+  text-align: center;
+}
+
+.banner {
+
+  background-color:  #ebe8e163;
+  padding: 5%;
+}
+
+.avitar {
+  width: 50%;
+  border-radius: 50%;
+
+}
+
+.social {
+  background-color: #beb9ae;
+}
+
+.social a {
+   color: #fff;
+}
+
+.social li {
+  display: inline-block;
+  margin: 5%;
+
+}
+
+.social i {
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+  color: #51504e;
+  letter-spacing: 2px;
+}
+
+a:hover {
+  color: #f5b82a;
+}
+
+.thumbnails {
+  width: 100%;
+}
+
+td {
+  width: 50%;
+  padding-bottom: 5%;
+}
+
+.project-description{
+  padding-left:  5%;
+}
+
+.portfolio {
+  border-style: solid;
+  border-color: #ebe8e1;
+  border-width: 2px;
+  padding: 5%;
+}
+button {
+
+  padding:2% 5%;
+  background: transparent;
+  border: solid;
+  border-width: 2px;
+  color: #beb9ae;
+  text-transform: uppercase;
+  margin: 5%;
+}
+
+button a {
+  font-size: 12px;
+  font-weight: bolder;
+  color: #beb9ae;
+}
+
